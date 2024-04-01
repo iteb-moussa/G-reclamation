@@ -1,0 +1,798 @@
+﻿[{
+    "cin": "1111111",
+    "nom": "Abdullah",
+    "prenom": "Layla",
+    "age": 25,
+    "genre": "F",
+    "profession": "Ingénieure",
+    "region": "Sousse",
+    "sujet_demande": "Demande de devis auto",
+    "description": "Je souhaite obtenir un devis pour mon assurance automobile.",
+    "type_demande": "devis",
+    "date": "2023-10-12",
+    "type_assurance": "Automobile",
+    "motif": "Demande de devis auto"
+
+    
+  },
+  
+  
+
+  {
+    "cin": "2222222",
+    "nom": "Ahmed",
+    "prenom": "Hassan",
+    "age": 35,
+    "genre": "M",
+    "profession": "Photographe",
+    "region": "Tunis",
+    "sujet_demande": "Réclamation pour vol de véhicule",
+    "description": "Ma voiture a été volée dans un parking public. Je souhaite déposer une réclamation pour obtenir une indemnisation.",
+    "type_demande": "reclamation",
+    "date": "2023-09-28",
+    "Motif" : "Demande contentieux"
+    
+},
+  
+  
+  {
+   
+    "cin": "3333333",
+    "nom": "Farid",
+    "prenom": "Amina",
+    "age": 40,
+    "genre": "F",
+    "profession": "Médecin",
+    "region": "Bizerte",
+    "sujet_demande": "Information sur l'assurance santé",
+    "description": "Je souhaite connaître les détails de la couverture de mon assurance santé.",
+    "type_demande": "information",
+    "date": "2023-11-03",
+    "Motif" : "Information Montant de la prime"
+  },
+  
+
+  {
+    "cin": "4444444",
+    "nom": "Ali",
+    "prenom": "Nour",
+    "age": 28,
+    "genre": "F",
+    "profession": "Enseignante",
+    "region": "Ariana",
+    "sujet_demande": "Demande de couverture d'assurance maladie",
+    "description": "Je souhaite souscrire une assurance maladie pour ma famille.",
+    "type_demande": "service",
+    "date": "2023-09-10",
+    "Motif": "Demande de devis contrat individuel (CRC)"
+
+
+  },
+  
+ 
+  {
+    "cin": "5555555",
+    "nom": "Hassan",
+    "prenom": "Fatima",
+    "age": 33,
+    "genre": "M",
+    "profession": "Commerçant",
+    "region": "Nabeul",
+    "sujet_demande": "Demande de révision de prime d'assurance auto",
+    "description": "Je souhaite revoir le montant de ma prime d'assurance automobile.",
+    "type_demande": "service",
+    "date": "2023-11-20",
+    "Motif ": "Demande augmentation prime"
+  },
+
+    {
+    "cin": "6666666",
+    "nom": "Khalid",
+    "prenom": "Nadia",
+    "age": 28,
+    "genre": "F",
+    "profession": "Avocate",
+    "region": "Monastir",
+    "sujet_demande": "Demande d'assistance juridique",
+    "description": "J'ai besoin d'une assistance juridique pour régler un litige avec ma compagnie d'assurance.",
+    "type_demande": "service",
+    "date": "2023-12-15",
+    "Motif" : "Demande contentieux"
+  },
+
+  
+  {
+    "cin": "7777777",
+    "nom": "Mahmoud",
+    "prenom": "Karim",
+    "age": 35,
+    "genre": "M",
+    "profession": "Ingénieur",
+    "region": "Sousse",
+    "sujet_demande": "Réclamation pour dommages causés par tempête",
+    "description": "Ma maison a été endommagée lors d'une tempête. Je souhaite déposer une réclamation pour obtenir une indemnisation.",
+    "type_demande": "reclamation",
+    "date": "2023-12-08",
+   " Motif" : "Demande rapport expertise"
+  },
+
+  
+  {
+    "cin": "8888888",
+    "nom": "Karoui",
+    "prenom": "Amina",
+    "age": 40,
+    "genre": "F",
+    "profession": "Médecin",
+    "region": "Nabeul",
+    "sujet_demande": "Demande de résiliation de contrat",
+    "description": "Je souhaite résilier mon contrat d'assurance automobile.",
+    "type_demande": "service",
+    "date": "2023-08-28",
+    "Motif ": "Demande de résiliation de contrat"
+    
+
+  },
+
+ 
+  {
+    "cin": "9999999",
+    "nom": "Othmani",
+    "prenom": "Sami",
+    "age": 38,
+    "genre": "M",
+    "profession": "Artisan",
+    "region": "Sfax",
+    "sujet_demande": "Demande de remboursement pour soins médicaux",
+    "description": "J'ai dû subir une intervention chirurgicale et je souhaite obtenir un remboursement pour les frais médicaux.",
+    "type_demande": "reclamation",
+    "date": "2023-11-12",
+    "Motif" : "Remboursement matériel du corporel"
+
+  },
+
+  
+  {
+    "cin": "1010101",
+    "nom": "Ben Youssef",
+    "prenom": "Hana",
+    "age": 31,
+    "genre": "F",
+    "profession": "Cadre",
+    "region": "Bizerte",
+    "sujet_demande": "Information sur les assurances voyage",
+    "description": "Je planifie un voyage à l'étranger et je souhaite en savoir plus sur les options d'assurance voyage disponibles.",
+    "type_demande": "information",
+    "date": "2023-10-22",
+    "Motif" : "Information Montant de la prime"
+
+},
+    
+    {
+    "cin": "1111222",
+    "nom": "Ferjani",
+    "prenom": "Sami",
+    "age": 45,
+    "genre": "M",
+    "profession": "Entrepreneur",
+    "region": "Mahdia",
+    "sujet_demande": "Réclamation pour dégâts des eaux",
+    "description": "Une fuite d'eau s'est produite dans ma maison et a causé des dommages importants. Je souhaite déposer une réclamation.",
+    "type_demande": "reclamation",
+    "date": "2023-11-28",
+    "Motif" : "Demande prise en charge"
+  },
+
+  
+  {
+    "cin": "2222333",
+    "nom": "Gharbi",
+    "prenom": "Nadia",
+    "age": 42,
+    "genre": "F",
+    "profession": "Professeure",
+    "region": "Ariana",
+    "sujet_demande": "Information sur les assurances auto",
+    "description": "Je cherche des informations sur les différentes options d'assurance automobile disponibles.",
+    "type_demande": "information",
+    "date": "2023-11-18",
+    "Motif ": "Information sur l'assurance santé"
+  },
+
+  
+  {
+    "cin": "3333444",
+    "nom": "Hajji",
+    "prenom": "Khalil",
+    "age": 55,
+    "genre": "M",
+    "profession": "Retraité",
+    "region": "Tunis",
+    "sujet_demande": "Demande de résiliation de contrat d'assurance vie",
+    "description": "Je souhaite résilier mon contrat d'assurance vie.",
+    "type_demande": "service",
+    "date": "2023-10-10",
+   " Motif" : "Demande de résiliation de contrat"
+  },
+
+  
+  {
+    "cin": "4444555",
+    "nom": "Lassoued",
+    "prenom": "Amel",
+    "age": 37,
+    "genre": "F",
+    "profession": "Commerçante",
+    "region": "Monastir",
+    "sujet_demande": "Demande de renseignements sur les franchises",
+    "description": "Je souhaite obtenir des informations sur les franchises applicables à mon assurance automobile.",
+    "type_demande": "information",
+    "date": "2023-09-08",
+    "Motif" : "Information Montant de la prime"
+  },
+
+  
+  {
+    "cin": "5555666",
+    "nom": "Makni",
+    "prenom": "Karim",
+    "age": 40,
+    "genre": "M",
+    "profession": "Ingénieur",
+    "region": "Sousse",
+    "sujet_demande": "Réclamation pour sinistre habitation",
+    "description": "Ma maison a été endommagée lors d'une inondation. Je souhaite déposer une réclamation.",
+    "type_demande": "reclamation",
+    "date": "2023-12-05",
+    "Motif" : "Demande rapport expertise"
+
+  },
+  {
+    "cin": "6666777",
+    "nom": "Ammar",
+    "prenom": "Wafa",
+    "age": 34,
+    "genre": "F",
+    "profession": "Avocate",
+    "region": "Sfax",
+    "sujet_demande": "Demande d'extension de garantie automobile",
+    "description": "Je souhaite étendre la garantie de mon véhicule pour inclure une couverture contre le vol.",
+    "type_demande": "service",
+    "date": "2023-09-15",
+    "Motif" : "Demande Avenant sur contrat"
+  },
+
+
+  {
+    "cin": "7777888",
+    "nom": "Jouini",
+    "prenom": "Sami",
+    "age": 48,
+    "genre": "M",
+    "profession": "Médecin",
+    "region": "Ariana",
+    "sujet_demande": "Demande de réclamation pour vol d'objets de valeur",
+    "description": "Des bijoux de valeur ont été volés dans ma maison. Je souhaite déposer une réclamation pour obtenir un remboursement.",
+    "type_demande": "reclamation",
+    "date": "2023-09-30",
+    "Motif" : "Demande de remboursement auto"
+  },
+
+  
+  {
+    "cin": "8888999",
+    "nom": "Karray",
+    "prenom": "Ali",
+    "age": 42,
+    "genre": "M",
+    "profession": "Commerçant",
+    "region": "Tunis",
+    "sujet_demande": "Réclamation pour dégâts des eaux",
+    "description": "Une fuite d'eau s'est produite dans ma maison et a causé des dommages. Je souhaite déposer une réclamation.",
+    "type_demande": "reclamation",
+    "date": "2023-11-28",
+    "Motif" : "Demande prise en charge"
+
+  },
+
+  
+  {
+    "cin": "9999000",
+    "nom": "Makhlouf",
+    "prenom": "Houda",
+    "age": 37,
+    "genre": "F",
+    "profession": "Ingénieure",
+    "region": "Monastir",
+    "sujet_demande": "Demande de remboursement pour frais médicaux",
+    "description": "J'ai eu des frais médicaux importants et je souhaite obtenir un remboursement de mon assurance santé.",
+    "type_demande": "reclamation",
+    "date": "2023-11-20",
+   " Motif" : "Remboursement matériel du corporel"
+  },
+
+  
+  {
+    "cin": "1010111",
+    "nom": "Najar",
+    "prenom": "Hiba",
+    "age": 35,
+    "genre": "F",
+    "profession": "Avocate",
+    "region": "Tunis",
+    "sujet_demande": "Demande de modification de contrat d'assurance vie",
+    "description": "Je souhaite ajouter des bénéficiaires à mon contrat d'assurance vie existant.",
+    "type_demande": "service",
+    "date": "2023-12-10",
+    "Motif" : "Demande Avenant sur contrat"
+  },
+  {
+    "cin": "1111223",
+    "nom": "Haddad",
+    "prenom": "Omar",
+    "age": 30,
+    "genre": "M",
+    "profession": "Ingénieur",
+    "region": "Bizerte",
+    "sujet_demande": "Demande de couverture d'assurance maladie",
+    "description": "Je souhaite souscrire une assurance maladie pour ma famille.",
+    "type_demande": "service",
+    "date": "2023-10-20",
+    "Motif" : "Demande de devis contrat individuel (CRC)"
+
+  },
+
+  
+  {
+    "cin": "2222334",
+    "nom": "Ghazi",
+    "prenom": "Rania",
+    "age": 28,
+    "genre": "F",
+    "profession": "Architecte",
+    "region": "Sousse",
+    "sujet_demande": "Demande d'assistance dépannage",
+    "description": "Ma voiture est tombée en panne sur l'autoroute. J'ai besoin d'une assistance dépannage rapide.",
+    "type_demande": "service",
+    "date": "2023-11-05",
+   " Motif" : "Demande bon de sortie"
+
+  },
+
+ 
+  {
+    "cin": "3333445",
+    "nom": "Hamza",
+    "prenom": "Amina",
+    "age": 35,
+    "genre": "F",
+    "profession": "Enseignante",
+    "region": "Nabeul",
+    "sujet_demande": "Réclamation assurance incendie",
+    "description": "Un incendie s'est déclaré dans ma cuisine. Je souhaite déposer une réclamation pour obtenir une indemnisation.",
+    "type_demande": "reclamation",
+    "date": "2023-09-15",
+    "Motif" : "Demande rapport expertise"
+  },
+
+ 
+  {
+    "cin": "4444556",
+    "nom": "Ismail",
+    "prenom": "Habiba",
+    "age": 45,
+    "genre": "F",
+    "profession": "Pharmacienne",
+    "region": "Monastir",
+    "sujet_demande": "Demande de révision de contrat",
+    "description": "Je souhaite revoir les termes de mon contrat d'assurance santé pour inclure une couverture pour les médicaments onéreux.",
+    "type_demande": "service",
+    "date": "2023-12-10",
+    "Motif" : "Demande Avenant sur contrat"
+
+  },
+
+  
+  {
+    "cin": "5555667",
+    "nom": "Jouini",
+    "prenom": "Mohamed",
+    "age": 40,
+    "genre": "M",
+    "profession": "Chef de projet",
+    "region": "Sfax",
+    "sujet_demande": "Information sur l'assurance habitation",
+    "description": "Je souhaite en savoir plus sur les différentes options d'assurance habitation disponibles.",
+    "type_demande": "information",
+    "date": "2023-08-25",
+    "Motif" : "Information sur les assurances habitation"
+  },
+  {
+    "cin": "6666778",
+    "nom": "Karoui",
+    "prenom": "Nour",
+    "age": 33,
+    "genre": "F",
+    "profession": "Ingénieure",
+    "region": "Ariana",
+    "sujet_demande": "Demande de réclamation pour dommages causés par tempête",
+    "description": "Ma maison a été endommagée lors d'une tempête. Je souhaite déposer une réclamation pour obtenir une indemnisation.",
+    "type_demande": "reclamation",
+    "date": "2023-12-08",
+    "Motif" : "Demande rapport expertise"
+  },
+
+  
+  {
+    "cin": "7777889",
+    "nom": "Lassoued",
+    "prenom": "Ahmed",
+    "age": 39,
+    "genre": "M",
+    "profession": "Chercheur",
+    "region": "Bizerte",
+    "sujet_demande": "Demande de renseignements sur les franchises",
+    "description": "Je souhaite obtenir des informations sur les franchises applicables à mon assurance automobile.",
+    "type_demande": "information",
+    "date": "2023-09-08",
+    "Motif" : "Information sur l'assurance santé"
+  },
+
+  
+  {
+    "cin": "8889000",
+    "nom": "Masmoudi",
+    "prenom": "Lina",
+    "age": 32,
+    "genre": "F",
+    "profession": "Comptable",
+    "region": "Tunis",
+    "sujet_demande": "Réclamation pour sinistre habitation",
+    "description": "Ma maison a été endommagée lors d'un incendie. Je souhaite déposer une réclamation pour obtenir une indemnisation.",
+    "type_demande": "reclamation",
+    "date": "2023-12-18",
+    "Motif" : "Demande rapport expertise"
+    
+
+  },
+
+  
+  {
+    "cin": "9999111",
+    "nom": "Bouazizi",
+    "prenom": "Faten",
+    "age": 37,
+    "genre": "F",
+    "profession": "Pharmacien",
+    "region": "Nabeul",
+    "sujet_demande": "Demande de remboursement pour soins médicaux",
+    "description": "J'ai eu des frais médicaux importants et je souhaite obtenir un remboursement de mon assurance santé.",
+    "type_demande": "reclamation",
+    "date": "2023-11-20",
+    "Motif" : "Remboursement matériel du corporel"
+  },
+
+  {
+    "cin": "1010112",
+    "nom": "Nouri",
+    "prenom": "Achraf",
+    "age": 35,
+    "genre": "M",
+    "profession": "Enseignant",
+    "region": "Monastir",
+    "sujet_demande": "Demande de modification de contrat d'assurance vie",
+    "description": "Je souhaite ajuster les bénéficiaires de mon contrat d'assurance vie.",
+    "type_demande": "service",
+    "date": "2023-12-10",
+    "Motif" : "Demande Avenant sur contrat"
+  },
+  {
+    "cin": "1111224",
+    "nom": "Khelifi",
+    "prenom": "Mouna",
+    "age": 30,
+    "genre": "F",
+    "profession": "Architecte",
+    "region": "Sousse",
+    "sujet_demande": "Demande de couverture d'assurance maladie",
+    "description": "Je souhaite souscrire une assurance maladie pour ma famille.",
+    "type_demande": "service",
+    "date": "2023-10-20",
+    "Motif" : "Demande de devis contrat individuel (CRC)"
+  },
+
+  
+  {
+    "cin": "2222335",
+    "nom": "Ghazouani",
+    "prenom": "Ali",
+    "age": 28,
+    "genre": "M",
+    "profession": "Ingénieur",
+    "region": "Nabeul",
+    "sujet_demande": "Demande d'assistance dépannage",
+    "description": "Ma voiture est tombée en panne sur l'autoroute. J'ai besoin d'une assistance dépannage rapide.",
+    "type_demande": "service",
+    "date": "2023-11-05",
+    "Motif" : "Demande bon de sortie"
+  },
+
+  
+  {
+    "cin": "3333446",
+    "nom": "Hamzaoui",
+    "prenom": "Leila",
+    "age": 35,
+    "genre": "F",
+    "profession": "Enseignante",
+    "region": "Bizerte",
+    "sujet_demande": "Réclamation assurance incendie",
+    "description": "Un incendie s'est déclaré dans ma cuisine. Je souhaite déposer une réclamation pour obtenir une indemnisation.",
+    "type_demande": "reclamation",
+    "date": "2023-09-15",
+    "Motif" : "Demande rapport expertise"
+  },
+
+  
+  {
+    "cin": "4444557",
+    "nom": "Ismaili",
+    "prenom": "Habib",
+    "age": 45,
+    "genre": "M",
+    "profession": "Pharmacien",
+    "region": "Ariana",
+    "sujet_demande": "Demande de révision de contrat",
+    "description": "Je souhaite revoir les termes de mon contrat d'assurance santé pour inclure une couverture pour les médicaments onéreux.",
+    "type_demande": "service",
+    "date": "2023-12-10",
+    "Motif" : "Demande Avenant sur contrat"
+
+  },
+
+  
+  {
+    "cin": "5555668",
+    "nom": "Jouini",
+    "prenom": "Sarra",
+    "age": 40,
+    "genre": "F",
+    "profession": "Médecin",
+    "region": "Sfax",
+    "sujet_demande": "Information sur l'assurance habitation",
+    "description": "Je souhaite en savoir plus sur les différentes options d'assurance habitation disponibles.",
+    "type_demande": "information",
+    "date": "2023-08-25",
+    "Motif" : "Information sur les assurances habitation"
+  },
+  {
+    "cin": "6666779",
+    "nom": "Messaoudi",
+    "prenom": "Khaled",
+    "age": 32,
+    "genre": "M",
+    "profession": "Avocat",
+    "region": "Mahdia",
+    "sujet_demande": "Demande de devis assurance habitation",
+    "description": "Je souhaite obtenir un devis pour mon assurance habitation.",
+    "type_demande": "devis",
+    "date": "2023-10-12",
+    "Motif" : "Demande de devis contrat individuel (CRC)"
+  },
+
+  
+  {
+    "cin": "7777890",
+    "nom": "Sghaier",
+    "prenom": "Rim",
+    "age": 35,
+    "genre": "F",
+    "profession": "Ingénieure",
+    "region": "Monastir",
+    "sujet_demande": "Réclamation pour vol de véhicule",
+    "description": "Ma voiture a été volée dans un parking public. Je souhaite déposer une réclamation pour obtenir une indemnisation.",
+    "type_demande": "reclamation",
+    "date": "2023-09-28",
+    "Motif" : "Demande contentieux"
+  },
+
+  
+  {
+    "cin": "8889001",
+    "nom": "Djebali",
+    "prenom": "Mohamed",
+    "age": 40,
+    "genre": "M",
+    "profession": "Chef d'entreprise",
+    "region": "Ariana",
+    "sujet_demande": "Information sur l'assurance santé",
+    "description": "Je souhaite connaître les détails de la couverture de mon assurance santé.",
+    "type_demande": "information",
+    "date": "2023-11-03",
+    "Motif" : "Information Montant de la prime"
+  },
+
+  {
+    "cin": "9999112",
+    "nom": "Sassi",
+    "prenom": "Amira",
+    "age": 42,
+    "genre": "F",
+    "profession": "Enseignante",
+    "region": "Sousse",
+    "sujet_demande": "Demande de modification de contrat",
+    "description": "Je souhaite ajuster les termes de mon contrat d'assurance automobile.",
+    "type_demande": "service",
+    "date": "2023-12-05",
+   " Motif" : "Demande Avenant sur contrat"
+  },
+
+  
+  {
+    "cin": "1010113",
+    "nom": "Gharbi",
+    "prenom": "Nabil",
+    "age": 28,
+    "genre": "M",
+    "profession": "Artiste",
+    "region": "Bizerte",
+    "sujet_demande": "Information sur les assurances voyage",
+    "description": "Je planifie un voyage à l'étranger et je souhaite en savoir plus sur les options d'assurance voyage disponibles.",
+    "type_demande": "information",
+    "date": "2023-10-18",
+    "Motif" : "Information sur l'assurance santé"
+  },
+  {
+    "cin": "1111225",
+    "nom": "Ben Amor",
+    "prenom": "Leila",
+    "age": 33,
+    "genre": "F",
+    "profession": "Journaliste",
+    "region": "Tunis",
+    "sujet_demande": "Demande d'extension de garantie automobile",
+    "description": "Je souhaite étendre la garantie de ma voiture pour inclure une couverture contre les pannes mécaniques.",
+    "type_demande": "service",
+    "date": "2023-11-30",
+    "Motif" : "Demande Avenant sur contrat"
+  },
+
+  
+  {
+    "cin": "2222336",
+    "nom": "Aouadi",
+    "prenom": "Riadh",
+    "age": 45,
+    "genre": "M",
+    "profession": "Consultant",
+    "region": "Sfax",
+    "sujet_demande": "Réclamation pour dégâts des eaux",
+    "description": "Une fuite d'eau s'est produite dans ma maison et a causé des dommages importants. Je souhaite déposer une réclamation.",
+    "type_demande": "reclamation",
+    "date": "2023-10-05",
+    "Motif" : "Demande prise en charge"
+  },
+
+  {
+    "cin": "3333447",
+    "nom": "Ghazi",
+    "prenom": "Nour",
+    "age": 40,
+    "genre": "F",
+    "profession": "Entrepreneure",
+    "region": "Gabès",
+    "sujet_demande": "Demande de renseignements sur les franchises",
+    "description": "Je souhaite obtenir des informations sur les franchises applicables à mon assurance automobile.",
+    "type_demande": "information",
+    "date": "2023-09-20",
+   "Motif" : "Information sur l'assurance santé"
+  },
+
+ 
+  {
+    "cin": "4444558",
+    "nom": "Hajji",
+    "prenom": "Wassim",
+    "age": 35,
+    "genre": "M",
+    "profession": "Photographe",
+    "region": "Nabeul",
+    "sujet_demande": "Réclamation pour sinistre habitation",
+    "description": "Ma maison a été endommagée lors d'un tremblement de terre. Je souhaite déposer une réclamation pour obtenir une indemnisation.",
+    "type_demande": "reclamation",
+    "date": "2023-12-15",
+    "Motif" : "Demande rapport expertise"
+  },
+
+  {
+    "cin": "5555669",
+    "nom": "Slimani",
+    "prenom": "Hana",
+    "age": 28,
+    "genre": "F",
+    "profession": "Pharmacienne",
+    "region": "Tunis",
+    "sujet_demande": "Demande de remboursement pour frais médicaux",
+    "description": "J'ai eu des frais médicaux importants et je souhaite obtenir un remboursement de mon assurance santé.",
+    "type_demande": "reclamation",
+    "date": "2023-11-10",
+    "Motif" : "Remboursement matériel du corporel"
+  },
+  {
+    "cin": "6666770",
+    "nom": "Ben Miled",
+    "prenom": "Sofia",
+    "age": 31,
+    "genre": "F",
+    "profession": "Architecte",
+    "region": "Sousse",
+    "sujet_demande": "Demande de couverture d'assurance maladie",
+    "description": "Je souhaite souscrire une assurance maladie complémentaire pour ma famille.",
+    "type_demande": "service",
+    "date": "2023-09-10",
+    "Motif" : "Demande de couverture d'assurance maladie"
+  },
+
+  
+  {
+    "cin": "7777881",
+    "nom": "Dhouib",
+    "prenom": "Ali",
+    "age": 36,
+    "genre": "M",
+    "profession": "Ingénieur",
+    "region": "Ariana",
+    "sujet_demande": "Information sur les polices d'assurance auto",
+    "description": "Je voudrais en savoir plus sur les différentes options de polices d'assurance automobile disponibles.",
+    "type_demande": "information",
+    "date": "2023-11-05",
+    "Motif" : "Information sur les assurances auto"
+  },
+
+  
+  {
+    "cin": "8888992",
+    "nom": "El Kefi",
+    "prenom": "Ines",
+    "age": 39,
+    "genre": "F",
+    "profession": "Enseignante",
+    "region": "Sfax",
+    "sujet_demande": "Réclamation pour dommages causés par tempête",
+    "description": "Ma maison a été endommagée lors d'une tempête. Je souhaite déposer une réclamation pour obtenir une indemnisation.",
+    "type_demande": "reclamation",
+    "date": "2023-12-08",
+    "Motif" : "Réclamation pour dommages causés par tempête"
+
+  },
+
+  
+  {
+    "cin": "9999113",
+    "nom": "Feriani",
+    "prenom": "Walid",
+    "age": 33,
+    "genre": "M",
+    "profession": "Chef cuisinier",
+    "region": "Nabeul",
+    "sujet_demande": "Demande de résiliation de contrat",
+    "description": "Je souhaite résilier mon contrat d'assurance habitation.",
+    "type_demande": "service",
+    "date": "2023-08-28",
+    "Motif" : "Demande de résiliation de contrat"
+  },
+
+  {
+    "cin": "1010114",
+    "nom": "Gadacha",
+    "prenom": "Imen",
+    "age": 37,
+    "genre": "F",
+    "profession": "Médecin",
+    "region": "Monastir",
+    "sujet_demande": "Information sur les garanties d'assurance habitation",
+    "description": "Je souhaite connaître les différentes garanties incluses dans les polices d'assurance habitation.",
+    "type_demande": "information",
+    "date": "2023-09-05",
+    "Motif" : "Information sur les garanties d'assurance habitation"
+  }]
